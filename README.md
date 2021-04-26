@@ -12,9 +12,13 @@ The file +sentinel2_getdata.py+ fetches sentinel2 data from the European Space A
 
 The file +sentinel2_bandoperations.py+ calculates several important bandoperations, inlcuding NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
 
-The diagram below shows the satellite imageery process pipeline.
+The diagram below shows the satellite imagery process pipeline.
 
 ![alt text](https://github.com/realtechsupport/vertical_public_space/blob/main/sentinel2_pipeline.png?raw=true)
+
+Here are sample results from the included scripts
+
+
 
 
 
