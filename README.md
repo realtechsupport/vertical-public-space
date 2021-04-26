@@ -1,16 +1,26 @@
 # vertical-public-space
 ART543 remote sensing and public computing - Department of ART - University of Buffalo, Spring 2021
 
+**Overview**
 
-This code repository contains the coding tool created in the context of a first course on remote sensing and public computing:
+The goal of this course is twofold. First to foster a critical understanding of the significance of information flows created in the new public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for designers, artists and architects to actually work with these complex assets in productive ways.
 
+We focus on satellite imagery from the European Space Agency's Sentinel2 program (...) and open source code to process these datasets. No proprietary products are required to work with this framework.
 
-Remote sensing is the process of monitoring physical signals of earth from afar. This graduate (and advanced undergraduate) seminar will survey the state of the art in remote sensing and seek to understand how these systems impact current understanding and discussion of the use of natural resources across planet earth. The course will survey remote sensing systems ranging from camera traps collecting imagery in the wild, particulate matter sensors monitoring air pollution in sprawling cities, ocean-based weather buoys monitoring wave motion, temperature and salinity, to low orbit satellites providing high resolution multi-band imagery on fishing fleets. 
-With a basic understanding of remote sensing systems and the specific data sets they generate, we will investigate analysis techniques used to interpret and visualize the results with a focus on remote sensing via satellites. Finally, we will look at a variety of public and private organizations and the strategies they deploy to harness remote sensing systems for public education, diplomacy and political agency.
+Here is a brief description of the course philosophy:
 
-The file +sentinel2_getdata.py+ fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
+"Remote sensing is the process of monitoring physical signals of earth from afar. This graduate (and advanced undergraduate) seminar will survey the state of the art in remote sensing and seek to understand how these systems impact current understanding and discussion of the use of natural resources across planet earth. The course will survey remote sensing systems ranging from camera traps collecting imagery in the wild, particulate matter sensors monitoring air pollution in sprawling cities, ocean-based weather buoys monitoring wave motion, temperature and salinity, to low orbit satellites providing high resolution multi-band imagery on fishing fleets. 
+With a basic understanding of remote sensing systems and the specific data sets they generate, we will investigate analysis techniques used to interpret and visualize the results with a focus on remote sensing via satellites. Finally, we will look at a variety of public and private organizations and the strategies they deploy to harness remote sensing systems for public education, diplomacy and political agency."
 
-The file +sentinel2_bandoperations.py+ calculates several important bandoperations, inlcuding NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
+This code repository contains the code artifacts created in and for this course.
+
+The file sentinel2_getdata.ipynb fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
+
+The file sentinel2_bandoperations.ipynb calculates several important bandoperations, inlcuding NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
+
+The file sentinel_helper.py contains all the definitions of all routines called in the Jupyter files.
+
+Installation instuctions are included in the Jupyter notebooks.
 
 The diagram below shows the satellite imagery process pipeline and some results from the included scripts.
 
