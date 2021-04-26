@@ -17,7 +17,11 @@ The diagram below shows the satellite imagery process pipeline.
 <p align="center">
 <img src="https://github.com/realtechsupport/vertical_public_space/blob/main/sentinel2_pipeline.png?raw=true" >
 </p>
+
+
 Here are sample results from the included scripts
+
+
 <p align="center">
 <img src="https://github.com/realtechsupport/vertical_public_space/blob/main/download.png?raw=true">
 </p>
