@@ -1,4 +1,6 @@
 # vertical-public-space
+
+<p align="center">
 ART543 remote sensing and public computing - Department of ART - University of Buffalo, Spring 2021
 
 <p align="center">
