@@ -5,7 +5,9 @@ ART543 remote sensing and public computing - Department of ART - University of B
 
 The goal of this course is twofold. First to foster a critical understanding of the information flows created in the new public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for designers, artists and architects to actually work with these complex assets in productive ways.
 
-We focus on satellite imagery from the [ European Space Agency's Sentinel2 program](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) and open source code to process these datasets. No proprietary products are required to work with this framework, the Jupyter notebooks operate on [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments and can be adapted to any virtual machine.
+We focus on satellite imagery from the [European Space Agency's Sentinel2 program](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) and open source code to process these datasets. No proprietary products are required to work with this framework, the Jupyter notebooks operate on [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments and can be adapted to any virtual machine.
+
+While there are numerous specialized and GUI centric packages that offer many more features such as [ArcGis](https://www.esri.com/en-us/arcgis/about-arcgis/overview) and [Qgis](https://qgis.org/en/site/), the small collection of procedures here allows novices to experience the processing of satellite imagery from start to end, and to customize any part of the pipeline.
 
 Here is a brief description of the course philosophy:
 
