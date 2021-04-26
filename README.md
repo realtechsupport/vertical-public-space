@@ -5,7 +5,7 @@ ART543 remote sensing and public computing - Department of ART - University of B
 
 The goal of this course is twofold. First to foster a critical understanding of the information flows created in the new public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for designers, artists and architects to actually work with these complex assets in productive ways.
 
-We focus on satellite imagery from the [ European Space Agency's Sentinel2 program](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) and open source code to process these datasets. No proprietary products are required to work with this framework, the Jupyter notebooks operate on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments and can be adapted to any virtual machine.
+We focus on satellite imagery from the [ European Space Agency's Sentinel2 program](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) and open source code to process these datasets. No proprietary products are required to work with this framework, the Jupyter notebooks operate on [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments and can be adapted to any virtual machine.
 
 Here is a brief description of the course philosophy:
 
@@ -19,12 +19,12 @@ Sentinel2_getdata.ipynb
     fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
 
 Sentinel2_bandoperations.ipynb 
-    calculates several important bandoperations, inlcuding NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
+    calculates several important band operations, including NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
 
 Sentinel_helper.py 
     contains all the definitions of all routines called in the Jupyter files.
 ```
-Installation instuctions are included in the Jupyter notebooks.
+Installation instructions are included in the Jupyter notebooks.
 
 The diagram below shows the satellite imagery process pipeline and some results from the included scripts.
 
