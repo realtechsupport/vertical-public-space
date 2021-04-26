@@ -1,4 +1,4 @@
-# vertical_public_space
+# vertical-public-space
 band operations on sentinel2 satellite imagery made easy
 
 
