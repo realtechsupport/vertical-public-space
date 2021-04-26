@@ -1,6 +1,10 @@
 # vertical-public-space
 ART543 remote sensing and public computing - Department of ART - University of Buffalo, Spring 2021
 
+<p align="center">
+<img src="https://github.com/realtechsupport/vertical_public_space/blob/main/download.png?raw=true">
+</p>
+
 **Overview**
 
 The goal of this course is twofold. First to foster a critical understanding of the information flows created in the new public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for designers, artists and architects to actually work with these complex assets in productive ways.
@@ -31,16 +35,12 @@ Sentinel_helper.py
 ```
 Installation instructions are included in the Jupyter notebooks.
 
-The diagram below shows the satellite imagery process pipeline and some results from the included scripts.
+The diagram below shows the satellite imagery process pipeline.
 
 <p align="center">
 <img src="https://github.com/realtechsupport/vertical_public_space/blob/main/sentinel2_pipeline.png?raw=true" >
 </p>
 
-
-<p align="center">
-<img src="https://github.com/realtechsupport/vertical_public_space/blob/main/download.png?raw=true">
-</p>
 
 
 
