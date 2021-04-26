@@ -15,14 +15,13 @@ With a basic understanding of remote sensing systems and the specific data sets 
 This code repository contains the code artifacts created in and for this course.
 
 Sentinel2_getdata.ipynb 
-
-fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
+    fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
 
 Sentinel2_bandoperations.ipynb 
-calculates several important bandoperations, inlcuding NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
+    calculates several important bandoperations, inlcuding NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
 
 Sentinel_helper.py 
-contains all the definitions of all routines called in the Jupyter files.
+    contains all the definitions of all routines called in the Jupyter files.
 
 Installation instuctions are included in the Jupyter notebooks.
 
