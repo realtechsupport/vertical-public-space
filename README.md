@@ -7,7 +7,10 @@ The goal of this course is twofold. First to foster a critical understanding of 
 
 We focus on satellite imagery from the [European Space Agency's Sentinel2 program](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) and open source code to process these datasets. No proprietary products are required to work with this framework, the Jupyter notebooks operate on [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments and can be adapted to any virtual machine.
 
-While there are numerous specialized and GUI centric packages that offer many more features such as [ArcGis](https://www.esri.com/en-us/arcgis/about-arcgis/overview) and [Qgis](https://qgis.org/en/site/), the small collection of procedures here allows novices to experience the processing of satellite imagery from start to end, and to customize any part of the pipeline.
+While there are numerous other data sources such as [Planet](https://www.planet.com/) and [Google Earth](https://www.google.com/earth/), this course uses exclusively with freely available satellite imagery from the [European Space Agency's Sentinel2 program](https://sentinel.esa.int/web/sentinel/missions/sentinel-2). The code base is completely open source. No proprietary products are required to work with this framework, the Jupyter notebooks operate on [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments and can be adapted to any virtual machine.
+
+Students are encouraged to complement experiments in this programming-centric approach with GUI-centric packages that offer many more features such as [ArcGis](https://www.esri.com/en-us/arcgis/about-arcgis/overview) and [Qgis](https://qgis.org/en/site/). Certainly this small collection of procedures <i> allows novices to experience the processing of satellite imagery from start to end at no cost, and to customize any part of the pipeline </i>.
+
 
 Here is a brief description of the course philosophy:
 
