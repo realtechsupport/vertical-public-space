@@ -13,8 +13,8 @@ Here is a brief description of the course philosophy:
 
 Here is a list of [texts](https://paperpile.com/shared/mASXqv) discussed in the course. 
 
-This code repository contains the code artifacts created in and for this course.
-
+This code repository contains code artifacts created in and for this course.
+'''
 Sentinel2_getdata.ipynb 
     fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
 
@@ -23,7 +23,7 @@ Sentinel2_bandoperations.ipynb
 
 Sentinel_helper.py 
     contains all the definitions of all routines called in the Jupyter files.
-
+'''
 Installation instuctions are included in the Jupyter notebooks.
 
 The diagram below shows the satellite imagery process pipeline and some results from the included scripts.
