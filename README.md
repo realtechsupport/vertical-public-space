@@ -3,9 +3,9 @@ ART543 remote sensing and public computing - Department of ART - University of B
 
 **Overview**
 
-The goal of this course is twofold. First to foster a critical understanding of the significance of information flows created in the new public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for designers, artists and architects to actually work with these complex assets in productive ways.
+The goal of this course is twofold. First to foster a critical understanding of the information flows created in the new public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for designers, artists and architects to actually work with these complex assets in productive ways.
 
-We focus on satellite imagery from the European Space Agency's Sentinel2 program (...) and open source code to process these datasets. No proprietary products are required to work with this framework.
+We focus on satellite imagery from the [European Space Agency's Sentinel2 program] (https://sentinel.esa.int/web/sentinel/missions/sentinel-2) and open source code to process these datasets. No proprietary products are required to work with this framework.
 
 Here is a brief description of the course philosophy:
 
