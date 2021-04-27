@@ -1,7 +1,7 @@
 # vertical-public-space
 
 <p align="center">
-**ART543 remote sensing and public computing - Department of ART - University of Buffalo, Spring 2021**
+<b>ART543 remote sensing and public computing - Department of ART - University of Buffalo, Spring 2021</b>
 
 <p align="center">
 <img src="https://github.com/realtechsupport/vertical_public_space/blob/main/download.png?raw=true">
