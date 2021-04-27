@@ -31,9 +31,12 @@ Sentinel2_getdata.ipynb
 
 Sentinel2_bandoperations.ipynb 
     calculates several important band operations, including NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
+    
+Sentinel2_detectchange.ipynb 
+    calculates differences between select band operation images; visualizes the differences and overlays them on a true color image.
 
-Sentinel_helper.py 
-    contains all the definitions of the custom designed routines called in the Jupyter notebooks.
+Sentinel2_helper.py 
+    contains all the definitions of the custom designed routines used in the Jupyter notebooks.
 ```
 Installation instructions are included in the Jupyter notebooks.
 
