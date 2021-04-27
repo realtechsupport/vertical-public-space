@@ -9,7 +9,7 @@ ART543 remote sensing and public computing - Department of ART - University of B
 
 **Overview**
 
-The goal of this course is twofold. First to foster a critical understanding of the information flows created in the new public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for code-based, design-centric experiments with these complex assets.
+The goal of this course is twofold. First to foster a critical understanding of the information flows created in the public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for code-based, design-centric experiments with these complex assets.
 
 While there are numerous other data sources such as [Planet](https://www.planet.com/) and [Google Earth](https://www.google.com/earth/), this course works exclusively with freely available satellite imagery from the [European Space Agency's Sentinel2 program](https://sentinel.esa.int/web/sentinel/missions/sentinel-2). The code base is completely open source. No proprietary products are required, and the Jupyter notebooks placed on [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments can be hosted on any virtual machine.
 
