@@ -6,7 +6,7 @@
  <br><br>
 
 <p align="center">
-<img src="https://github.com/realtechsupport/vertical_public_space/blob/main/download.png?raw=true">
+<img src="https://github.com/realtechsupport/vertical_public_space/blob/main/ndvi_diff.png?raw=true">
 </p>
 
 **Overview**
