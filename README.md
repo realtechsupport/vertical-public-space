@@ -11,7 +11,7 @@
 
 **Overview**
 
-The vertical-public-space code repository and the university seminar it serves is twofold. First to foster a critical understanding of the information flows created in the expanding public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for code-based, design-centric experiments with these complex assets to foster a real-world understanding of how remote sensing impacts current debates on the use of natural resources across planet earth.
+The vertical-public-space code repository and the university seminar it serves is twofold. First to foster a critical understanding of the information flows created in the expanding public vertical space (Parks) of earth orbiting satellites, and second to build practical capacity for code-based, design-centric experiments with these complex assets to foster a real-world understanding of how remote sensing impacts current debates on the use of natural resources across planet earth. The course materials are designed for graduate level non-engineering students with design, architecture and art practioners in mind.
 
 
 Here is a list of [texts](https://paperpile.com/shared/mASXqv) discussed in the course. 
