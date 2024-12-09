@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-<b>ART543 remote sensing and public computing - Department of ART - University of Buffalo, Spring 2021</b>
+<b>ART543 Vertical public space - regimes of Earth observation - Department of ART - University of Buffalo, Spring 2021</b>
  <br><br>
 
 <p align="center">
