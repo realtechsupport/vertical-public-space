@@ -2,8 +2,9 @@
 
 <br>
 <p align="center">
-<b>ART543 Vertical public space - regimes of Earth observation - Department of ART - University of Buffalo, Spring 2021</b>
- <br><br>
+<b>ART543 Vertical public space - regimes of Earth observation - Department of ART - University of Buffalo</b>
+<b>SRping 2021; OpenEO updates 2024</b>
+<br><br>
 
 <p align="center">
 <img src="https://github.com/realtechsupport/vertical_public_space/blob/main/ndvi_diff.png?raw=true">
@@ -25,14 +26,20 @@ Details on installation, requirements and usage are included in the notebooks.
 Sentinel2_getdata.ipynb 
     fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
 
+Sentinel2-openEO-getdata.ipynb
+   updated module to collect data from the OpenEO framework hosting Copernicus data now.
+
 Sentinel2_bandoperations.ipynb 
     calculates several important band operations, including NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
     
 Sentinel2_detectchange.ipynb 
     calculates differences between select band operation images; visualizes the differences and overlays them on a true color image.
 
-Sentinel2_helper.py 
+Sentinel2_helper.py
     contains all the definitions of the custom designed routines used in the Jupyter notebooks.
+
+Openeo_helper.py, quality_check.py, utlities.py
+    helper modules for OpenEo approach.
 ```
 
 The diagram below shows the satellite imagery processing pipeline.
