@@ -6,8 +6,11 @@
 <br>
 <b>Spring 2021; OpenEO updates 2024</b>
 <br><br>
-Precursor project to COCKTAIL - Resource constrained [GeoAI](https://github.com/realtechsupport/cocktail/).
+Precursor project to COCKTAIL - 
+<a href= "https://github.com/realtechsupport/cocktail/"> Resource constrained GeoAI</a>
 <br><br>
+
+<a href= "https://github.com/realtechsupport/cocktail/" Resource constrained GeoAI</a>
 
 
 <p align="center">
