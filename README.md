@@ -6,10 +6,9 @@
 <br>
 <b>Spring 2021; OpenEO updates 2024</b>
 <br><br>
-Precursor project to COCKTAIL - Resource constrained [GeoAI](https://github.com/realtechsupport/cocktail)
+Precursor project to COCKTAIL - Resource constrained [GeoAI](https://github.com/realtechsupport/cocktail/).
 <br><br>
-[Google Earth](https://www.google.com/earth/)
-<br><br>
+
 
 <p align="center">
 <img src="https://github.com/realtechsupport/vertical_public_space/blob/main/ndvi_diff.png?raw=true">
