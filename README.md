@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-<b>ART543 Vertical public space - regimes of Earth observation <br> Department of ART - University of Buffalo</b>
+<b>ART543 Vertical public space - Regimes of Earth observation <br> Department of ART - University of Buffalo</b>
 <br>
 <b>Spring 2021; OpenEO updates 2024</b>
 <br><br>
