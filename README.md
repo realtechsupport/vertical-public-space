@@ -5,8 +5,8 @@
 <b>ART543 Vertical public space - regimes of Earth observation - Department of ART - University of Buffalo</b>
 <br>
 <b>Spring 2021; OpenEO updates 2024</b>
-<br>
-Precursor project to COCKTAIL - Rsource constrained [GeoAI](https://github.com/realtechsupport/cocktail)
+<br><br>
+Precursor project to COCKTAIL - Resource constrained [GeoAI](https://github.com/realtechsupport/cocktail)
 <br><br>
 
 <p align="center">
