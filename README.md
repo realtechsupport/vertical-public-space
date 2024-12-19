@@ -10,9 +10,6 @@ Precursor project to COCKTAIL -
 <a href= "https://github.com/realtechsupport/cocktail/"> Resource constrained GeoAI</a>
 <br><br>
 
-<a href= "https://github.com/realtechsupport/cocktail/" Resource constrained GeoAI</a>
-
-
 <p align="center">
 <img src="https://github.com/realtechsupport/vertical_public_space/blob/main/ndvi_diff.png?raw=true">
 </p>
