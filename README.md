@@ -23,9 +23,6 @@ While there are numerous other data sources such as [Planet](https://www.planet.
 This small collection of simple functions focuses on end to end band arithmetic that offer complete control of how the imagery is collected and processed, and allows customization any part of the pipeline. Moreover the approach implemented here scales from collecting color images to [state-of-the-art machine learning satellite image processing.](https://colab.research.google.com/github/JohannesStutz/blog/blob/master/_notebooks/2021-02-17-Building-Detection-SpaceNet7.ipynb). No proprietary products are required, and the Jupyter notebooks placed on [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments can be hosted on any virtual machine. Students are encouraged to complement this programming-centric approach with GUI-centric packages that offer many additional options such as [ArcGis](https://www.esri.com/en-us/arcgis/about-arcgis/overview) and [Qgis](https://qgis.org/en/site/). 
 
 
-Details on installation, requirements and usage are included in the notebooks.
-<br><br>
-
 NEW
 <br>
 The openeo python files replace the previous sentinel-2 data access module.
@@ -39,9 +36,6 @@ pip install geojson
 
 <br>
 <br>
-```
-Sentinel2_getdata.ipynb 
-    fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
 
 Sentinel2-openEO-getdata.ipynb
    updated module to collect data from the OpenEO framework hosting Copernicus data now.
@@ -52,12 +46,6 @@ Sentinel2_bandoperations.ipynb
 Sentinel2_detectchange.ipynb 
     calculates differences between select band operation images; visualizes the differences and overlays them on a true color image.
 
-Sentinel2_helper.py
-    contains all the definitions of the custom designed routines used in the Jupyter notebooks.
-
-Openeo_helper.py, quality_check.py, utlities.py
-    helper modules for OpenEo approach.
-```
 
 The diagram below shows the satellite imagery processing pipeline.
 
