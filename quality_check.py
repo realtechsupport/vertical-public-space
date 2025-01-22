@@ -1,4 +1,5 @@
-
+# openeo_quality_check.py
+# Dec 2024, RTS
 
 def recompile(metadata):
   recompiled_metadata = {}
