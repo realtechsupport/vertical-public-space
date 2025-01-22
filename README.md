@@ -23,9 +23,10 @@ While there are numerous other data sources such as [Planet](https://www.planet.
 This small collection of simple functions focuses on end to end band arithmetic that offer complete control of how the imagery is collected and processed, and allows customization any part of the pipeline. Moreover the approach implemented here scales from collecting color images to [state-of-the-art machine learning satellite image processing.](https://colab.research.google.com/github/JohannesStutz/blog/blob/master/_notebooks/2021-02-17-Building-Detection-SpaceNet7.ipynb). No proprietary products are required, and the Jupyter notebooks placed on [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) compute environments can be hosted on any virtual machine. Students are encouraged to complement this programming-centric approach with GUI-centric packages that offer many additional options such as [ArcGis](https://www.esri.com/en-us/arcgis/about-arcgis/overview) and [Qgis](https://qgis.org/en/site/). 
 
 
-NEW
+**OpenEO data access**
 <br>
-The openeo python files replace the previous sentinel-2 data access module.
+The ESA openEO project makes sentinel-2 satellite datasets more easily accessible. The subscription model includes a free version for experimental use.
+The openeo python files included here replace the previous sentinel-2 data access module.
 <br>
 To use the openeo approach, create a virtual environment and then run the script <br>
 gdal_install.sh
