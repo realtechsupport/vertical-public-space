@@ -26,7 +26,7 @@ This small collection of simple functions focuses on end to end band arithmetic 
 **OpenEO data access**
 
 
-The ESA openEO project makes sentinel-2 satellite datasets more easily accessible. The subscription model includes a free version for experimental use.
+The [ESA openEO project](https://openeo.cloud/) makes sentinel-2 satellite datasets more easily accessible. The subscription model includes a free version for experimental use.
 The openeo python files included here replace the previous sentinel-2 data access module.
 <br>
 To use the openeo approach, create a virtual environment and then run the script <br>
@@ -37,6 +37,8 @@ After that, add these libraries
 pip install Pillow <br>
 pip install openeo <br>
 pip install geojson <br>
+<br>
+Run the file openeo_getdata.py with your desired input parameters to retrieve select sentinel-2 datasets.
 
 
 
