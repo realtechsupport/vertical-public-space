@@ -24,7 +24,8 @@ This small collection of simple functions focuses on end to end band arithmetic 
 
 
 **OpenEO data access**
-<br>
+
+
 The ESA openEO project makes sentinel-2 satellite datasets more easily accessible. The subscription model includes a free version for experimental use.
 The openeo python files included here replace the previous sentinel-2 data access module.
 <br>
