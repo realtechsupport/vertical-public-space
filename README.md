@@ -24,7 +24,21 @@ This small collection of simple functions focuses on end to end band arithmetic 
 
 
 Details on installation, requirements and usage are included in the notebooks.
+<br><br>
 
+NEW
+<br>
+The openeo python files replace the previous sentinel-2 data access module.
+To use the openeo approach, create a virtual environment and then run the script
+gdal_install.sh
+
+After that, add these libraries
+pip install Pillow
+pip install openeo 
+pip install geojson 
+
+<br>
+<br>
 ```
 Sentinel2_getdata.ipynb 
     fetches sentinel2 data from the European Space Agency based on the defined parameter settings.
