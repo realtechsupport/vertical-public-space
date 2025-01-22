@@ -26,32 +26,17 @@ This small collection of simple functions focuses on end to end band arithmetic 
 NEW
 <br>
 The openeo python files replace the previous sentinel-2 data access module.
-To use the openeo approach, create a virtual environment and then run the script
+<br>
+To use the openeo approach, create a virtual environment and then run the script <br>
 gdal_install.sh
 
 After that, add these libraries
-pip install Pillow
-pip install openeo 
-pip install geojson 
-
 <br>
-<br>
-
-Sentinel2-openEO-getdata.ipynb
-   updated module to collect data from the OpenEO framework hosting Copernicus data now.
-
-Sentinel2_bandoperations.ipynb 
-    calculates several important band operations, including NDVI, NDWI, FDI, BSI and NBR, and produces images from those calculations.
-    
-Sentinel2_detectchange.ipynb 
-    calculates differences between select band operation images; visualizes the differences and overlays them on a true color image.
+pip install Pillow <br>
+pip install openeo <br>
+pip install geojson <br>
 
 
-The diagram below shows the satellite imagery processing pipeline.
-
-<p align="center">
-<img src="https://github.com/realtechsupport/vertical_public_space/blob/main/sentinel2_pipeline.png?raw=true" >
-</p>
 
 
 
